@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2174784345
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lua_ab
+      Dependencies: {}
+    Info_1:
+      Name: tic-tac-toe_ab
+      Dependencies: {}
